@@ -1,0 +1,107 @@
+<bibdata type="standard" schema-version="v1.2.3">
+  <fetched>2023-08-15</fetched>
+  <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en" script="Latn">Determination of the nitrogen content and calculation of the crude protein content</title>
+  <title type="title-part" format="text/plain" language="en" script="Latn">Kjeldahl method</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Cereals and pulses - Determination of the nitrogen content and calculation of the crude protein content - Kjeldahl method</title>
+  <uri type="src">https://www.iso.org/standard/59162.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59162:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59162.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO 20483</docidentifier>
+  <docidentifier type="iso-reference">ISO 20483(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:20483:stage-90.60:ed-2</docidentifier>
+  <docnumber>20483</docnumber>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>90</stage>
+    <substage>60</substage>
+  </status>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 20483:2006</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 20483:2006</docidentifier>
+    </bibitem>
+  </relation>
+  <relation type="instance">
+    <bibitem type="standard">
+      <fetched>2023-08-15</fetched>
+      <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
+      <title type="title-main" format="text/plain" language="en" script="Latn">Determination of the nitrogen content and calculation of the crude protein content</title>
+      <title type="title-part" format="text/plain" language="en" script="Latn">Kjeldahl method</title>
+      <title type="main" format="text/plain" language="en" script="Latn">Cereals and pulses - Determination of the nitrogen content and calculation of the crude protein content - Kjeldahl method</title>
+      <uri type="src">https://www.iso.org/standard/59162.html</uri>
+      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59162:en</uri>
+      <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59162.detail.rss</uri>
+      <docidentifier type="ISO" primary="true">ISO 20483:2013</docidentifier>
+      <docidentifier type="iso-reference">ISO 20483:2013(E)</docidentifier>
+      <docidentifier type="URN">urn:iso:std:iso:20483:stage-90.60:ed-2</docidentifier>
+      <docnumber>20483</docnumber>
+      <date type="published">
+        <on>2013-12</on>
+      </date>
+      <contributor>
+        <role type="publisher"/>
+        <organization>
+          <name>International Organization for Standardization</name>
+          <abbreviation>ISO</abbreviation>
+          <uri>www.iso.org</uri>
+        </organization>
+      </contributor>
+      <edition>2</edition>
+      <language>en</language>
+      <script>Latn</script>
+      <abstract format="text/plain" language="en" script="Latn">ISO 20483:2013 specifies a method for the determination of the nitrogen content of cereals, pulses and derived products, according to the Kjeldahl method, and a method for calculating the crude protein content. The method does not distinguish between protein nitrogen and non-protein nitrogen.</abstract>
+      <status>
+        <stage>90</stage>
+        <substage>60</substage>
+      </status>
+      <copyright>
+        <from>2013</from>
+        <owner>
+          <organization>
+            <name>ISO</name>
+          </organization>
+        </owner>
+      </copyright>
+      <relation type="obsoletes">
+        <bibitem type="standard">
+          <formattedref format="text/plain">ISO 20483:2006</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 20483:2006</docidentifier>
+        </bibitem>
+      </relation>
+      <place>Geneva</place>
+    </bibitem>
+  </relation>
+  <place>Geneva</place>
+  <ext schema-version="v1.0.0">
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34" type="TC" identifier="ISO/TC 34/SC 4">Cereals and pulses</technical-committee>
+    </editorialgroup>
+    <ics>
+      <code>67.060</code>
+      <text>Cereals, pulses and derived products</text>
+    </ics>
+    <structuredidentifier type="ISO">
+      <project-number>ISO 20483</project-number>
+    </structuredidentifier>
+  </ext>
+</bibdata>
